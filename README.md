@@ -1,3 +1,7 @@
+# Live
+
+The site at [biaslist.com](https://biaslist.com) is online and can be used as of the time of this edit.
+
 # Introduction
 
 This is a simple site design focused on presenting a searchable/filterable table presented as HTML.  The table data is contained in a SQLite db and queried from PHP.
@@ -10,6 +14,6 @@ Features include the following:
 
 The example DB, `bias_db.sqlite` has about 1000 rows in the table.
 
-# Comments
+# On adaptation
 
 The same basic pattern could be applied to other domains where occasionally searching and filtering similarly-sized tables might be a useful reference activity, and which might benefit from an equally straightforward editing/expansion flow.
